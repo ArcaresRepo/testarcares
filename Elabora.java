@@ -16,6 +16,7 @@ import org.slf4j.Logger;
  */
 public class Elabora implements WrRuleClassBody {
 
+    
     WorkSession workSession;	// Required
     Logger logger;          	// Required
     Entity entity;				// Required

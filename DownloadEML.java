@@ -7,7 +7,7 @@ import it.cbt.wr.api.service.repository.entities.Entity;
 import it.cbt.wr.api.service.repository.entities.StructuredProperty;
 import it.cbt.wr.api.service.repository.entities.StructuredPropertyRecord;
 import it.cbt.wr.api.service.repository.qualities.Resource;
-import it.cbt.wr.core.script.janino.WrRuleClassBody;
+import it.cbt.wr.cgfdgdore.script.janino.WrRuleClassBody;
 import it.cbt.wr.hi.utils.ResourcesCache;
  
 import java.io.File;

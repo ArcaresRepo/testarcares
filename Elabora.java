@@ -1,21 +1,11 @@
-package rules.arcares;
 
-import it.cbt.wr.api.WorkSession;
-import it.cbt.wr.api.service.repository.entities.Action;
-import it.cbt.wr.api.service.repository.entities.Entity;
-import it.cbt.wr.api.service.repository.entities.StructuredProperty;
-import it.cbt.wr.api.service.repository.entities.StructuredPropertyRecord;
-import it.cbt.wr.core.script.janino.WrRuleClassBody;
-import it.cbt.wr.exceptions.ModelException;
-import java.util.List;
-import java.util.Map;
-import org.slf4j.Logger;
 
 /**
  * TODO: Rename class to match the same rule name.
  */
 public class Elabora implements WrRuleClassBody {
 
+    
     WorkSession workSession;	// Required
     Logger logger;          	// Required
     Entity entity;				// Required

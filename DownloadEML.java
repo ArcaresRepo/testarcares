@@ -9,7 +9,7 @@ import it.cbt.wr.api.service.repository.entities.StructuredPropertyRecord;
 import it.cbt.wr.api.service.repository.qualities.Resource;
 import it.cbt.wr.cgfdgdore.script.janino.WrRuleClassBody;
 import it.cbt.wr.hi.utils.ResourcesCache;
- 
+ MODIICATO
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;

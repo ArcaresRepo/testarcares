@@ -5,7 +5,7 @@
  */
 public class Elabora implements WrRuleClassBody {
 
-    
+    prova
     WorkSession workSession;	// Required
     Logger logger;          	// Required
     Entity entity;				// Required
